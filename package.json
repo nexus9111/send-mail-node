@@ -1,0 +1,24 @@
+{
+  "name": "send-mail-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send-mail-node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexus9111/send-mail-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexus9111/send-mail-node/issues"
+  },
+  "homepage": "https://github.com/nexus9111/send-mail-node#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "nodemailer": "^6.7.5"
+  }
+}
